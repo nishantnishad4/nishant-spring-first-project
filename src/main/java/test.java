@@ -1,4 +1,4 @@
-public class test {public static void main (String{} args){
+public class test {public static void main (Stringgit stst{} args){
     system.out.println(Hello);
 }
 }
